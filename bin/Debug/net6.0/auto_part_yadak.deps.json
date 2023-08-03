@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "auto_part_yadak/1.0.0": {
+        "runtime": {
+          "auto_part_yadak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "auto_part_yadak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
